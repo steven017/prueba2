@@ -1,1 +1,1 @@
-print('segundo archivo añadido a github')
+print('una pequeña alteración de archivo')
